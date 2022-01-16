@@ -1,0 +1,21 @@
+mode: set
+todolist-app/delivery/controllers/project/project.go:20.61,22.2 1 1
+todolist-app/delivery/controllers/project/project.go:24.65,29.38 3 1
+todolist-app/delivery/controllers/project/project.go:37.2,43.35 5 1
+todolist-app/delivery/controllers/project/project.go:29.38,35.3 4 1
+todolist-app/delivery/controllers/project/project.go:46.66,55.35 5 1
+todolist-app/delivery/controllers/project/project.go:63.2,69.35 5 1
+todolist-app/delivery/controllers/project/project.go:55.35,61.3 4 1
+todolist-app/delivery/controllers/project/project.go:72.65,87.16 8 1
+todolist-app/delivery/controllers/project/project.go:95.2,101.35 5 1
+todolist-app/delivery/controllers/project/project.go:87.16,93.3 4 1
+todolist-app/delivery/controllers/project/project.go:104.65,115.35 6 1
+todolist-app/delivery/controllers/project/project.go:123.2,133.16 6 1
+todolist-app/delivery/controllers/project/project.go:141.2,147.35 5 1
+todolist-app/delivery/controllers/project/project.go:115.35,121.3 4 1
+todolist-app/delivery/controllers/project/project.go:133.16,139.3 4 0
+todolist-app/delivery/controllers/project/project.go:150.65,161.35 6 1
+todolist-app/delivery/controllers/project/project.go:169.2,173.16 3 1
+todolist-app/delivery/controllers/project/project.go:181.2,187.35 5 1
+todolist-app/delivery/controllers/project/project.go:161.35,167.3 4 1
+todolist-app/delivery/controllers/project/project.go:173.16,179.3 4 0

@@ -1,0 +1,23 @@
+mode: set
+todolist-app/repository/task/task.go:13.49,15.2 1 1
+todolist-app/repository/task/task.go:17.81,22.16 3 1
+todolist-app/repository/task/task.go:26.2,26.19 1 1
+todolist-app/repository/task/task.go:22.16,24.3 1 1
+todolist-app/repository/task/task.go:29.83,34.16 3 1
+todolist-app/repository/task/task.go:38.2,38.18 1 1
+todolist-app/repository/task/task.go:34.16,36.3 1 1
+todolist-app/repository/task/task.go:41.77,46.16 3 1
+todolist-app/repository/task/task.go:50.2,50.18 1 1
+todolist-app/repository/task/task.go:46.16,48.3 1 1
+todolist-app/repository/task/task.go:53.75,58.16 3 1
+todolist-app/repository/task/task.go:62.2,62.21 1 1
+todolist-app/repository/task/task.go:58.16,60.3 1 0
+todolist-app/repository/task/task.go:65.81,68.16 2 1
+todolist-app/repository/task/task.go:72.2,72.18 1 1
+todolist-app/repository/task/task.go:68.16,70.3 1 1
+todolist-app/repository/task/task.go:75.81,78.16 2 1
+todolist-app/repository/task/task.go:82.2,82.18 1 1
+todolist-app/repository/task/task.go:78.16,80.3 1 1
+todolist-app/repository/task/task.go:85.81,88.16 2 1
+todolist-app/repository/task/task.go:92.2,92.18 1 0
+todolist-app/repository/task/task.go:88.16,90.3 1 1
